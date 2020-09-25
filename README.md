@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2020 - 23 September, 2020
+Week: 17 September, 2020 - 24 September, 2020
 
 JavaScript   6 hrs 31 mins   █████████████████████░░░░   83.91 % 
 YAML         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
