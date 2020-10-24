@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 15 October, 2020 - 22 October, 2020
+Week: 16 October, 2020 - 23 October, 2020
 
 JavaScript   6 hrs 31 mins   █████████████████████░░░░   83.91 % 
 YAML         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
