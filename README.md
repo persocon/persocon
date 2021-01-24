@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2021 - 22 January, 2021
+Week: 16 January, 2021 - 23 January, 2021
 
 JavaScript   6 hrs 31 mins   █████████████████████░░░░   83.91 % 
 YAML         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
