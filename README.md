@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 02 July, 2021 - 08 July, 2021
+Week: 03 July, 2021 - 09 July, 2021
 
 JavaScript   5 hrs 38 mins   ███████████████████████▓░   94.53 % 
 Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
