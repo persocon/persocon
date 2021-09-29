@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2021 - 27 September, 2021
+Week: 22 September, 2021 - 28 September, 2021
 
 JavaScript   4 hrs 46 mins   █████████████████████████   99.80 % 
 ```
