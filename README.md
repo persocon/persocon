@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2021 - 28 November, 2021
+Week: 23 November, 2021 - 29 November, 2021
 
 JavaScript   2 hrs 27 mins   █████████████████████▓░░░   86.85 % 
 YAML         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
