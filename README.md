@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2022 - 29 January, 2022
+Week: 24 January, 2022 - 30 January, 2022
 
 JavaScript   9 hrs 52 mins   ██████████████████████▓░░   90.27 % 
 JSON         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
