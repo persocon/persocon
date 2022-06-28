@@ -1,13 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 June 2022 - To: 26 June 2022
+From: 20 June 2022 - To: 27 June 2022
 
-JavaScript   2 hrs 47 mins   ███████████████████▓░░░░░   78.66 %
-YAML         19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-GraphQL      12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Docker       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+JavaScript   2 hrs 32 mins   ████████████████████▓░░░░   82.23 %
+YAML         19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Docker       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
