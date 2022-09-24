@@ -1,12 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 September 2022 - To: 21 September 2022
+From: 15 September 2022 - To: 22 September 2022
 
-JavaScript                   ████████████████████████▓   98.97 %
-JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Bash                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Git                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript                   ███████████████████████░░   92.29 %
+Other                        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
 ```
 
 <!--END_SECTION:waka-->
