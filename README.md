@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 19 February 2023
+From: 13 February 2023 - To: 20 February 2023
 
-JavaScript                   ███████████████████████░░   92.44 %
-YAML                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+JavaScript                   ██████████████████████▓░░   91.16 %
+YAML                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
