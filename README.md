@@ -1,10 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 March 2023 - To: 29 March 2023
+From: 23 March 2023 - To: 30 March 2023
 
-JavaScript                   ████████████████████▓░░░░   83.18 %
-Other                        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+JavaScript                   ████████████████░░░░░░░░░   64.33 %
+Markdown                     ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+Other                        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
 ```
 
 <!--END_SECTION:waka-->
