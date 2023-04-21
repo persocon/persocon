@@ -1,10 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 April 2023 - To: 18 April 2023
+From: 12 April 2023 - To: 19 April 2023
 
-JavaScript                   ███████████████████████▓░   94.33 %
-Other                        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+JavaScript                   ███████████████████████▒░   92.81 %
+Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
