@@ -1,9 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-JavaScript                   █████████████████████████   100.00 %
+JavaScript                   ███████████████████████▓░   95.16 %
+Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+GDScript3                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
